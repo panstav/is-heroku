@@ -1,0 +1,24 @@
+{
+  "version": "0.0.0",
+  "name": "@panstav/is-heroku",
+  "description": "Checks if currently on a Heroku instance",
+  "homepage": "https://github.com/panstav/is-heroku#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panstav/is-heroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/panstav/is-heroku/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Stav Geffen",
+    "email": "stavgeffen@gmail.com",
+    "url": "http://www.stav.io"
+  },
+  "keywords": ["heroku"]
+}
