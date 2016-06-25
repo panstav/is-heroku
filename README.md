@@ -2,6 +2,10 @@
 
 > Checks if currently on a Heroku instance by checking on process.env.DYNO
 
+## Installation
+
+    npm install @panstav/is-heroku
+
 ## Usage
 
 ```js
