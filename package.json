@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "name": "@panstav/is-heroku",
   "description": "Checks if currently on a Heroku instance",
   "homepage": "https://github.com/panstav/is-heroku#readme",
