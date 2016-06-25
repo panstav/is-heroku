@@ -13,7 +13,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/mocha -R list"
+    "test": "node_modules/.bin/mocha"
   },
   "author": {
     "name": "Stav Geffen",
