@@ -12,10 +12,10 @@
 const isHeroku = require('@panstav/is-heroku');
 
 // not on heroku
-console.log(isHeroku);
+console.log(isHeroku());
 // -> false
 
 // on Heroku
-console.log(isHeroku);
+console.log(isHeroku());
 // -> true
 ```
