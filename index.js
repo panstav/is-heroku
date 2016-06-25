@@ -1,3 +1,3 @@
-module.exports = function isHeroku(){
+module.exports = () => {
 	return 'DYNO' in process.env;
 };
