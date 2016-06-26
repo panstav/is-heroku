@@ -1,4 +1,4 @@
-# is-heroku [![Build Status](https://travis-ci.org/panstav/is-heroku.svg?branch=master)](https://travis-ci.org/panstav/is-heroku)
+# is-heroku [![Build Status](https://travis-ci.org/panstav/is-heroku.svg?branch=master&count=1)](https://travis-ci.org/panstav/is-heroku)
 
 > Checks if it's running on a Heroku instance by asserting process.env.DYNO
 
